@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Moataz!
+## Hi there , I'm Moataz ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-🚀 **Front-End Developer | React & WordPress Enthusiast | Passionate about Building Digital Experiences**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Front-End+Developer+%7C+React+%26+WordPress+Enthusiast;Building+awesome+digital+experiences!)](https://git.io/typing-svg)
 
 I'm a developer with a passion for crafting **efficient, user-friendly, and visually appealing applications**. I love working on **React, Next.js, WordPress, and Three.js**, and I enjoy solving complex problems with clean, scalable solutions.
 
@@ -9,7 +9,8 @@ I'm a developer with a passion for crafting **efficient, user-friendly, and visu
 🏛️ **Cairo University, Faculty of Science**  
 
 ### 🔥 What I Do  
-- 💻 **Frontend Development:** React, Next.js, Tailwind CSS, Three.js  
+- 💻 **
+Frontend Development:** React, Next.js, Tailwind CSS, Three.js  
 - 🛠 **Backend & CMS:** Node.js, Supabase, Appwrite, WordPress (WooCommerce)  
 - 📱 **Mobile Development:** React Native (Expo)  
 - 🎨 **UI/UX Focused:** Creating seamless and interactive user experiences  
@@ -36,4 +37,6 @@ Thanks for stopping by! 🚀 Let's build something amazing together.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoatazEssam/MoatazEssam/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/MoatazEssam/MoatazEssam/output/github-snake.svg" />
 </picture>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
