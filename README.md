@@ -19,7 +19,7 @@ I'm a developer with a passion for crafting **efficient, user-friendly, and visu
 - 📱 Enhancing **React Native apps** for better mobile UX  
 - 🛠 Expanding skills in **serverless architectures & backend services**  
 
-### 👯 Let's Connect!  
+### 📧 Let's Connect!  
 - 💬 Ask me about **React, WordPress, or UI/UX best practices**  
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/moataz-essam-237509344/)**  
 - ⚡ Fun fact: I love working on side projects that push the boundaries of creativity!  
