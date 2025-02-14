@@ -37,6 +37,3 @@ Thanks for stopping by! 🚀 Let's build something amazing together.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoatazEssam/MoatazEssam/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/MoatazEssam/MoatazEssam/output/github-snake.svg" />
 </picture>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
