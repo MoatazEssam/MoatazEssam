@@ -1,4 +1,3 @@
-<img src="https://github.com/MoatazEssam/MoatazEssam/blob/main/Untitled%20design.jpg" alt="Moataz Essam Banner" width="100%" />
 ## Hi there 👋, I'm Moataz!
 
 🚀 **Front-End Developer | React & WordPress Enthusiast | Passionate about Building Digital Experiences**  
