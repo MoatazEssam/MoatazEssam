@@ -1,6 +1,6 @@
 ## Hi there , I'm Moataz ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Developer)](https://git.io/typing-svg)
 
 I'm a developer with a passion for crafting **efficient, user-friendly, and visually appealing applications**. I love working on **React, Next.js, WordPress, and Three.js**, and I enjoy solving complex problems with clean, scalable solutions.
 
